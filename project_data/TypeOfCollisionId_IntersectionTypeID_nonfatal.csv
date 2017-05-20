@@ -1,0 +1,12 @@
+"","2 approaches","3 approaches","4 approaches","5-point or more","Not at Intersection","Roundabout"
+"Angle",9296,35724,67666,801,47845,255
+"Animals",438,963,356,4,27529,2
+"Backed Intro",134,431,561,6,3016,6
+"Fixed Object in Road",175,406,496,7,4448,11
+"Fixed Object-off road",2218,7048,3391,63,94604,89
+"Head On",787,2368,3616,57,9291,14
+"Other",639,1444,2156,27,8228,19
+"Other-Vehicle",90,331,468,6,624,7
+"Pedestrian",308,929,1634,18,3160,4
+"Rear End",7489,23296,44454,515,119258,143
+"Sideswipe",2034,4476,7517,148,34056,92
