@@ -2,7 +2,7 @@
 Dynamic visualization of crashes in virginia 2011-2015
 
 ## How to use
-Go to www.github.io/tylerhutcherson/VACrashes. 
+Go to https://tylerhutcherson.github.io/VACrashes/. 
 Due to the raw size of the data, it takes a few seconds for the page to load. 
 
 ### The Filter Grid
