@@ -20,5 +20,7 @@ Everytime the slider is changed, the map redraws.  This is another piece of func
 
 ## Resources
 University of Virginia Data Science Institute 2017
+
 Paper: Mixed Linear Modeling Techniques for Predicting Fatalities in Vehicle Crashes (Ge, Hutcherson, Tang, Qu 2017)
+
 Virginia Department of Motor Vehicles
